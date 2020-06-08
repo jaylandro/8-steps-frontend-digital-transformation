@@ -1,7 +1,7 @@
 # ⚡️ 8 Steps to Frontend Digital Transformation
 
 ![annie-spratt-McM5BW4jQHc-unsplash](https://user-images.githubusercontent.com/6473103/84065071-559a2300-a989-11ea-9905-540c16eeb465.jpg)
-Photo by Annie Spratt on Unsplash
+– _Photo by Annie Spratt on Unsplash_
 
 ## Who is this series for?
 
@@ -20,5 +20,6 @@ Developers, product managers, architects & CTOs who are maintaining or inheritin
 * Poor or Minimal Documentation
 * Code Complexity
 * Lack of Modularity
-* Low Test Coverage
-*
+* Broken User Flows
+* Percieved performance
+* TTFPR – Time to First Pull Request (on-boarding/ramp-up as metric)
