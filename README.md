@@ -1,4 +1,4 @@
-# 8 Steps to Frontend Digital Transformation
+# ⚡️ 8 Steps to Frontend Digital Transformation
 
 ![annie-spratt-McM5BW4jQHc-unsplash](https://user-images.githubusercontent.com/6473103/84065071-559a2300-a989-11ea-9905-540c16eeb465.jpg)
 Photo by Annie Spratt on Unsplash
